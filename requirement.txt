@@ -1,0 +1,6 @@
+streamlit
+sklearn
+textdistance
+spacy
+pandas
+numpy
